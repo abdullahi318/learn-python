@@ -1,6 +1,6 @@
-#!/usr/bin/env 6python3
+#!/usr/bin/env python3
 
-    fact(numbet):
+    fact(number):
     
     if number > 1:
         return number * fact(number-1)
